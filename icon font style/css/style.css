@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    <div style="background-color:red/display inline-block;"
+   
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.icon-area ul{
+    list-style: none;
+}
+
+.icon-area ul li{
+    display: inline-block;
+}
+.icon-area ul li a{
+    background-color: rgb(99, 85, 3);
+    color: rgb(0, 124, 128);
+    padding: 30px 40px;
+    font-size: 40px;
+    display: block;
+    border-radius: 10px;
+}
+.icon-area ul li a:hover{
+    background: magenta;
+    color: black;
+    border-radius: 30%;
+    transition: 0.1;
+}  
